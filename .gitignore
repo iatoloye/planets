@@ -2,3 +2,4 @@ a.pdf
 directory/*
 *.pdf
 *_midified.txt
+!b.pdf (! is to ignore all pdf except b)
